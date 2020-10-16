@@ -1,2 +1,2 @@
-# Projelerim
+# LURIDs
 Yaptığım her şey
